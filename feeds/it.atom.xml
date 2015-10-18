@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Behnam Loghmani's blog</title><link href="http://behnamloghmani.github.io/" rel="alternate"></link><link href="http://behnamloghmani.github.io/feeds/it.atom.xml" rel="self"></link><id>http://behnamloghmani.github.io/</id><updated>2015-10-18T11:14:00+03:30</updated><entry><title>First</title><link href="http://behnamloghmani.github.io/first.html" rel="alternate"></link><updated>2015-10-18T11:14:00+03:30</updated><author><name>Behnam Loghmani</name></author><id>tag:behnamloghmani.github.io,2015-10-18:first.html</id><summary type="html">
+        This is the first post by pelican on my github blog!
+    </summary><category term="First Post"></category><category term="Behnam"></category></entry></feed>
